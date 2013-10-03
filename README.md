@@ -12,10 +12,8 @@ See [here](https://github.com/swcarpentry/boot-camps/blob/2013-09-bristol/versio
 
 
 In your web browser navigate to the [repository web page](https://github.com/patrickveegee/Mulholland-Group-Protocols).  
-To edit a file, navigate to the file then click "edit".  
-Once you have changed the file scroll down and enter a comment in the "commit summary"
+To edit a file, navigate to the file then click "edit".  Once you have changed the file scroll down and enter a comment in the "commit summary"
 box, then hit the green "Commit Changes" button.  
-
 To add new files click on the + symbol that appears after the current directory path
 
 ###Download and edit this repository on Mac or UNIX (e.g. one of the chemistry clusters curie or grendel): 
