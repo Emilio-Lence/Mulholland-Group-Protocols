@@ -1,5 +1,6 @@
 ###Patrick von Glehn
 
+![](patrick.jpeg)  
 My research interests lie in understanding the reaction mechanisms and physical basis for catalysis in enzymes.
 
 I am currently engaged in a collaborative project with the experimental group of [Neil Marsh](https://sites.google.com/a/umich.edu/the-marsh-lab/) at the University of Michigan studying the vitamin B12 dependent enzyme glutamate mutase.
