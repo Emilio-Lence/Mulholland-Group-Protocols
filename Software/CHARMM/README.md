@@ -13,6 +13,6 @@ On Bluecrystal:
 
 /users/chdrg/CHARMM/c36a1_EVB/exec/gnu (parallel with EVB)
 
-
 ##Compiling CHARMM
+
 [Here](./compiling_charmm.md) are instructions on how to compile CHARMM
