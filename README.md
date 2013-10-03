@@ -43,9 +43,24 @@ Mvdk
 Editing, Adding, Commiting changes made to the Mulholland-Group-Repository
 --------------------------------------------------------------------------
 
+You have made some changes to the repository and now want to save them and 'push' these changes up to the master copy that lives on the online repository Github 
 
-=
+1) $ git status 
+Tells you what changes you have made since your last commit
 
+2) $ git add --all 
+Initializes all the changes that you have made (detailed in the previous command)
+alternatively, 
+$ git add README.md    
+would only add the changes made to the file README.md 
+
+3) $ git commit 
+This then saves the changes that you have just added. It will require you to write a message giving the details of this specific git so that other users will be able to track your changes
+
+4) $ git push 
+Pushes your changes up to Github (online repository). This will require you to enter your individual username and password.
+Your changes will now be visible to all the subscribers of the repository online. 
+NOTE 
 
 
 
