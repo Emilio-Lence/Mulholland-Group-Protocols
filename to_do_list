@@ -11,4 +11,12 @@ parameters
 ###Marc
 add windows git instructions
 
+### To decide 
 
+1) Amber compliling instrcutions: grendel, curie, bluecrystal 
+both serial and parallel installation 
+
+2) Amber example submission scripts: 
+Richard, grendel + curie 
+Marc, bluecrystal 
+Christopher, emerald / GPU submission instructions
