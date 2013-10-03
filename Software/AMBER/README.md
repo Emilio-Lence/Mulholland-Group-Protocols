@@ -5,7 +5,7 @@ It is very quick for classical MD using pmemd.cuda_SPDP on GPUs
 [Here](http://ambermd.org/tutorials/) is a link to the AMBER tutorials
 
 
-//Where to find AMBER executables 
+#Where to find AMBER executables 
 
 Curie: 		
 (CPU, parallel, serial): 	/users/chmwvdk/amber12
