@@ -2,6 +2,7 @@
 
 In the CHARMM source directory
 First clean up the build directory \(equivalent to "make clean"\)
+
 $rm -r lib/\*                     
 $rm -r exec/\*                    
 $rm build/gnu/pref.dat
