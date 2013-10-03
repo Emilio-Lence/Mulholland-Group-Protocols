@@ -35,7 +35,7 @@ Add Sire stuff
 
 Parameter page
 generating parameters - good tutorial, red server
-
+error repository for each program
 
 1) Amber compliling instrcutions: grendel, curie, bluecrystal 
 both serial and parallel installation 
