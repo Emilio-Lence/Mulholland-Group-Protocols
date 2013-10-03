@@ -8,7 +8,7 @@ This repository uses version control software called [git](http://git-scm.com/) 
 is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols)
 See [here](https://github.com/swcarpentry/boot-camps/blob/2013-09-bristol/version-control/README.md) for an introduction to version control using git.
 
-##View and edit files on the GitHub web interface 
+###View and edit this repository on the GitHub web interface 
 
 
 In your web browser navigate to the [repository web page](https://github.com/patrickveegee/Mulholland-Group-Protocols) 
@@ -20,7 +20,7 @@ box, then hit the green "Commit Changes" button.
 
 To add new files click on the + symbol that appears after the current directory path
 
-##Download and edit this repository on Mac or UNIX (e.g. one of the chemistry clusters curie or grendel): 
+###Download and edit this repository on Mac or UNIX (e.g. one of the chemistry clusters curie or grendel): 
 
 First ensure that git is installed. Instructions are [here](http://git-scm.com/downloads)
 Git is installed on curie: /users/pv7409/bin/git and on bluecrystal /usr/local/bin/git
