@@ -8,7 +8,7 @@ This repository uses version control software called [git](http://git-scm.com/) 
 is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols).  
 See [here](https://github.com/swcarpentry/boot-camps/blob/2013-09-bristol/version-control/README.md) for an introduction to version control using git.  
 
-The task of populating this repository will be divided up in this [to do list](to_do_list)
+The task of populating this repository will be divided up in this [to do list](to_do_list.md)
 
 Text files in this repository are written in markdown which you can learn the basics of in a couple of minutes [here](http://www.markdowntutorial.com/).
 
