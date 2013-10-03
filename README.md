@@ -20,9 +20,11 @@ box, then hit the green "Commit Changes" button.
 
 To add new files click on the + symbol that appears after the current directory path
 
-##Download and edit this repository on Mac: 
+##Download and edit this repository on Mac or UNIX (e.g. one of the chemistry clusters curie or grendel): 
 
-First ensure that git is installed on your computer. Instructions are [here](http://git-scm.com/downloads)
+First ensure that git is installed. Instructions are [here](http://git-scm.com/downloads)
+Git is installed on curie: /users/pv7409/bin/git and on bluecrystal /usr/local/bin/git
+Make sure these installations are in your [path](http://www.cyberciti.biz/faq/unix-linux-adding-path/)
 
 Command-line:
 
