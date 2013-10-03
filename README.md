@@ -4,18 +4,20 @@ Mulholland-Group-Protocols
 Respository containing protocols for use of computational chemistry software used by the Mulholland research group University of Bristol.
 
 
-Using Git and Github 
-========================
+In order to store the repository online and allow all users to edit it, any changes need to be pushed (saved to) online servers.
+There are two online Respository: GitHub and Bitbucket 
 
-On the Github web interface:
+View Repository on the Github website 
+=====================================
 
+pvg    
 
 
 On Mac: 
 =======
 
-Setup the Mulhollan-Group-Repository 
-------------------------------------
+Download Mulholland-Group-Repository from GitHub   
+-----------------------------------------------
 
 Command-line:
 
@@ -30,6 +32,20 @@ $ git clone https://github.com/patrickveegee/Mulholland-Group-Protocols.git
 
 4) This will download the Repository Mulholland-Group-Protocols for use on your local computer 
 
-  
 
 On Windows: 
+=========== 
+
+Mvdk 
+
+
+
+Editing, Adding, Commiting changes made to the Mulholland-Group-Repository
+--------------------------------------------------------------------------
+
+
+=
+
+
+
+
