@@ -2,4 +2,6 @@
 
 CHARMM is a molecular dynamics simulation package.
 
-Here is a good [tutorial](http://www.charmmtutorial.org/)
+[Here](http://www.charmmtutorial.org/) is a tutorial 
+
+[Here](./compiling_charmm.md) are instructions on how to compile CHARMM
