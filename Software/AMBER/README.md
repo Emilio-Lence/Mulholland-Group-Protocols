@@ -23,5 +23,8 @@ Emerald:
 (CPU/GPU, parallel, serial): 	/apps/amber/amber12/bin/
 Ambertools should also be available with curie, grendel and amber12 bluecrystal 
 
+#Compiling AMBER 
+[Here](Mullholland_Group_Protocols/Software/AMBER/compiling_amber.md) are instructions on how to compile AMBER 
+
 
 
