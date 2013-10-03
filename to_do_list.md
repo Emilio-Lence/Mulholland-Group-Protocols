@@ -19,6 +19,7 @@ QoMMMa tutorial
 ###Richard
 QoMMMa compilation and test system
 link to manual 
+P450 specific stuff
 
 ###Marc  
 
