@@ -63,6 +63,7 @@ would only add the changes made to the file README.md
 This then saves the changes that you have just added. It will require you to write a message giving the details of this specific git so that other users will be able to track your changes
 
 4) $ git push 
+
 Pushes your changes up to Github (online repository). This will require you to enter your individual username and password.
 Your changes will now be visible to all the subscribers of the repository online. 
 NOTE
@@ -82,9 +83,12 @@ hint: before pushing again.
 
 hint: See the 'Note about fast-forwards' in 'git push --help' for details. 
 " 
+
 This means some changes have been made the repository since you last "pulled" it from Github 
 Therefore you need to
+
 $ git pull 
+
 To update the repository you are working on (which requires another you to write a message to let other username know the details of this action)
 and then you will be able to do 
 $ git push 
