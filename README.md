@@ -7,11 +7,15 @@ Respository containing protocols for use of computational chemistry software use
 In order to store the repository online and allow all users to edit it, any changes need to be pushed (saved to) online servers.
 There are two online Respository: GitHub and Bitbucket 
 
-View Repository on the Github website 
+View and edit repository on the Github website 
 =====================================
 
-pvg    
+Go to https://github.com/patrickveegee/Mulholland-Group-Protocols 
+To edit a file, click on <filename> >> edit 
+Once you have changed the file scroll down and enter a comment in the "commit summary"
+box, then hit the green "Commit Changes" button.
 
+To add new files click on the + symbol that appears after the current directory path
 
 On Mac: 
 =======
@@ -70,13 +74,13 @@ hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
 hint: before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details. 
 " 
-
 This means some changes have been made the repository since you last "pulled" it from Github 
 Therefore you need to
 $ git pull 
 To update the repository you are working on (which requires another you to write a message to let other username know the details of this action)
 and then you will be able to do 
 $ git push 
-to save your changes to the online repository  
+
+to make your changes 
 
 
