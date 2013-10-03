@@ -6,7 +6,7 @@ This is a respository containing protocols for use of computational chemistry so
 
 This repository uses version control software called [git](http://git-scm.com/) and
 is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols)
-
+See [here](https://github.com/swcarpentry/boot-camps/blob/2013-09-bristol/version-control/README.md) for an introduction to version control using git.
 
 ##View and edit files on the GitHub web interface 
 
@@ -22,8 +22,7 @@ To add new files click on the + symbol that appears after the current directory 
 
 ##Download and edit this repository on Mac: 
 
-Download Mulholland-Group-Repository from GitHub   
------------------------------------------------
+First ensure that git is installed on your computer. Instructions are [here](http://git-scm.com/downloads)
 
 Command-line:
 
