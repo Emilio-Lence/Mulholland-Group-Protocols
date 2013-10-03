@@ -1,17 +1,23 @@
-###Patrick
-edit relavent parts to Readme.md 
-programmes section - comiling etc
+###Everyone   
+Add a personal page to get used to using the repository
 
+###Patrick  
+Add VMD and NAMD stuff  
+Add EVB stuff  
 
-###Mike
+###Mike  
 languages
 parameters
 put manuals to programs 
 
-###Marc
+###Marc  
 add windows git instructions
+add Amber page
 
-### To decide 
+###Christopher  
+Add Sire stuff  
+
+###To decide 
 
 1) Amber compliling instrcutions: grendel, curie, bluecrystal 
 both serial and parallel installation 
@@ -25,10 +31,7 @@ Christopher, emerald / GPU submission instructions
 Test system: location
 Richard 
 
-4) SIRE 
-chris 
 
-5)NAMD 
-?? patrick 
+
 
 
