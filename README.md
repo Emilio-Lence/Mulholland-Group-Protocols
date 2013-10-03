@@ -4,8 +4,9 @@ Mulholland-Group-Protocols
 Respository containing protocols for use of computational chemistry software used by the Mulholland research group University of Bristol.
 
 
-In order to store the repository online and allow all users to edit it, any changes need to be pushed (saved to) online servers.
-There are two online Respository: GitHub and Bitbucket 
+This repository uses version control software called [git](http://git-scm.com/) and
+is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols)
+
 
 View and edit repository on the Github website 
 =====================================
