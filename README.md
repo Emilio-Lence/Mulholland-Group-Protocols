@@ -11,7 +11,7 @@ View and edit repository on the Github website
 =====================================
 
 Go to https://github.com/patrickveegee/Mulholland-Group-Protocols 
-To edit a file, click on <filename> >> edit 
+To edit a file, click on \<filename\> >> edit 
 
 Once you have changed the file scroll down and enter a comment in the "commit summary"
 box, then hit the green "Commit Changes" button.
