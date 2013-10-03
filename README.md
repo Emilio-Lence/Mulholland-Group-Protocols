@@ -11,7 +11,7 @@ is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Pro
 ##View and edit repository on the Github website 
 
 
-Go to https://github.com/patrickveegee/Mulholland-Group-Protocols 
+In your web browser navigate to the [repository web page](https://github.com/patrickveegee/Mulholland-Group-Protocols) 
 To edit a file, navigate to the file then click "edit" 
 
 Once you have changed the file scroll down and enter a comment in the "commit summary"
