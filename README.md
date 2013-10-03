@@ -8,7 +8,7 @@ This repository uses version control software called [git](http://git-scm.com/) 
 is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols)
 
 
-##View and edit repository on the Github website 
+##View and edit files on the GitHub web interface 
 
 
 In your web browser navigate to the [repository web page](https://github.com/patrickveegee/Mulholland-Group-Protocols) 
