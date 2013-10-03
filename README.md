@@ -8,7 +8,7 @@ This repository uses version control software called [git](http://git-scm.com/) 
 is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols)
 
 
-View and edit repository on the Github website 
+##View and edit repository on the Github website 
 =====================================
 
 Go to https://github.com/patrickveegee/Mulholland-Group-Protocols 
@@ -19,7 +19,7 @@ box, then hit the green "Commit Changes" button.
 
 To add new files click on the + symbol that appears after the current directory path
 
-On Mac: 
+##Download and edit this repository on Mac: 
 =======
 
 Download Mulholland-Group-Repository from GitHub   
