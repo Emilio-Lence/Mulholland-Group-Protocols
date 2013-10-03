@@ -67,12 +67,19 @@ Pushes your changes up to Github (online repository). This will require you to e
 Your changes will now be visible to all the subscribers of the repository online. 
 NOTE
 If when you push you receive the following message:
+
 "To https://limbma@bitbucket.org/peeveegee/mulholland-group-protocols.git
+
  ! [rejected]        master -> master (non-fast-forward)
+
 error: failed to push some refs to 'https://limbma@bitbucket.org/peeveegee/mulholland-group-protocols.git'
+
 hint: Updates were rejected because the tip of your current branch is behind
+
 hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
+
 hint: before pushing again.
+
 hint: See the 'Note about fast-forwards' in 'git push --help' for details. 
 " 
 This means some changes have been made the repository since you last "pulled" it from Github 
