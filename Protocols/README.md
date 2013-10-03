@@ -2,6 +2,8 @@ Workflows and Protocols used in the Group
 
 What should be here is for discussion in Group Meeting 3/10/2013 
 
+Seperate xray pdb to simulation ready pdb
+
 1) X-ray to MD charmmm (equilibration + production phase) 
 
 2) X-ray to MD AMBER 
