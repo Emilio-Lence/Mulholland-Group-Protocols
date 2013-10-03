@@ -1,20 +1,26 @@
 Mulholland-Group-Protocols
 ==========================
 
-Respository containing protocols for use of computational chemistry software used by the Mulholland research group University of Bristol.
+This is a respository containing protocols for use of computational chemistry software used by the Mulholland research group University of Bristol.
 
 
-In order to store the repository online and allow all users to edit it, any changes need to be pushed (saved to) online servers.
-There are two online Respository: GitHub and Bitbucket 
-
-View Repository on the Github website 
-=====================================
-
-pvg    
+This repository uses version control software called [git](http://git-scm.com/) and
+is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols)
 
 
-On Mac: 
-=======
+##View and edit files on the GitHub web interface 
+
+
+In your web browser navigate to the [repository web page](https://github.com/patrickveegee/Mulholland-Group-Protocols) 
+
+To edit a file, navigate to the file then click "edit" 
+
+Once you have changed the file scroll down and enter a comment in the "commit summary"
+box, then hit the green "Commit Changes" button.
+
+To add new files click on the + symbol that appears after the current directory path
+
+##Download and edit this repository on Mac: 
 
 Download Mulholland-Group-Repository from GitHub   
 -----------------------------------------------
@@ -58,25 +64,36 @@ would only add the changes made to the file README.md
 This then saves the changes that you have just added. It will require you to write a message giving the details of this specific git so that other users will be able to track your changes
 
 4) $ git push 
+
 Pushes your changes up to Github (online repository). This will require you to enter your individual username and password.
 Your changes will now be visible to all the subscribers of the repository online. 
 NOTE
 If when you push you receive the following message:
+
 "To https://limbma@bitbucket.org/peeveegee/mulholland-group-protocols.git
+
  ! [rejected]        master -> master (non-fast-forward)
+
 error: failed to push some refs to 'https://limbma@bitbucket.org/peeveegee/mulholland-group-protocols.git'
+
 hint: Updates were rejected because the tip of your current branch is behind
+
 hint: its remote counterpart. Merge the remote changes (e.g. 'git pull')
+
 hint: before pushing again.
+
 hint: See the 'Note about fast-forwards' in 'git push --help' for details. 
 " 
 
 This means some changes have been made the repository since you last "pulled" it from Github 
 Therefore you need to
+
 $ git pull 
+
 To update the repository you are working on (which requires another you to write a message to let other username know the details of this action)
 and then you will be able to do 
 $ git push 
-to save your changes to the online repository  
+
+to make your changes 
 
 
