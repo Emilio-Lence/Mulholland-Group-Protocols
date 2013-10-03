@@ -5,25 +5,24 @@ This is a respository containing protocols for use of computational chemistry so
 
 
 This repository uses version control software called [git](http://git-scm.com/) and
-is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols)
+is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols).  
+See [here](https://github.com/swcarpentry/boot-camps/blob/2013-09-bristol/version-control/README.md) for an introduction to version control using git.  
+Text files in this repository are written in markdown which you can  
+learn the basics of in a couple of minutes [here](http://www.markdowntutorial.com/).
+
+###View and edit this repository on the GitHub web interface 
 
 
-##View and edit files on the GitHub web interface 
-
-
-In your web browser navigate to the [repository web page](https://github.com/patrickveegee/Mulholland-Group-Protocols) 
-
-To edit a file, navigate to the file then click "edit" 
-
-Once you have changed the file scroll down and enter a comment in the "commit summary"
-box, then hit the green "Commit Changes" button.
-
+In your web browser navigate to the [repository web page](https://github.com/patrickveegee/Mulholland-Group-Protocols).  
+To edit a file, navigate to the file then click "edit".  Once you have changed the file scroll down and enter a comment in the "commit summary"
+box, then hit the green "Commit Changes" button.  
 To add new files click on the + symbol that appears after the current directory path
 
-##Download and edit this repository on Mac: 
+###Download and edit this repository on Mac or UNIX (e.g. one of the chemistry clusters curie or grendel): 
 
-Download Mulholland-Group-Repository from GitHub   
------------------------------------------------
+First ensure that git is installed. Instructions are [here](http://git-scm.com/downloads)  
+Git is installed on curie: /users/pv7409/bin/git and on bluecrystal /usr/local/bin/git
+Make sure these installations are in your [path](http://www.cyberciti.biz/faq/unix-linux-adding-path/)
 
 Command-line:
 
