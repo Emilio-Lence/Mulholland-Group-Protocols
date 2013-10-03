@@ -5,7 +5,7 @@ This is a respository containing protocols for use of computational chemistry so
 
 
 This repository uses version control software called [git](http://git-scm.com/) and
-is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols)
+is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Protocols).
 See [here](https://github.com/swcarpentry/boot-camps/blob/2013-09-bristol/version-control/README.md) for an introduction to version control using git.
 
 ###View and edit this repository on the GitHub web interface 
