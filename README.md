@@ -7,6 +7,10 @@ Respository containing protocols for use of computational chemistry software use
 Using Git and Github 
 ========================
 
+On the Github web interface:
+
+
+
 On Mac: 
 =======
 
