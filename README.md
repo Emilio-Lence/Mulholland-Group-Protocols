@@ -9,7 +9,7 @@ is stored on GitHub [here](https://github.com/patrickveegee/Mulholland-Group-Pro
 
 
 ##View and edit repository on the Github website 
-=====================================
+
 
 Go to https://github.com/patrickveegee/Mulholland-Group-Protocols 
 To edit a file, navigate to the file then click "edit" 
@@ -20,7 +20,6 @@ box, then hit the green "Commit Changes" button.
 To add new files click on the + symbol that appears after the current directory path
 
 ##Download and edit this repository on Mac: 
-=======
 
 Download Mulholland-Group-Repository from GitHub   
 -----------------------------------------------
